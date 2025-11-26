@@ -1,4 +1,4 @@
-#Instagram Analytics — Exploratory Data Analysis (EDA)
+Instagram Analytics — Exploratory Data Analysis (EDA)
 
 This repository contains the notebook Instagram_Analytics.ipynb, which performs Data Exploration, Data Cleaning, and Exploratory Data Analysis (EDA) on an Instagram content performance dataset.
 The goal is to understand engagement patterns, audience behavior, and key factors that influence post performance.
